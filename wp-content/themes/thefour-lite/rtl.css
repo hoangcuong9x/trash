@@ -1,0 +1,240 @@
+/*
+Theme Name: TheFour
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+https://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+/**
+ * Table of Contents:
+ *
+ * 1.0 - Normalize
+ * 2.0 - Typography
+ * 3.0 - Elements
+ * 4.0 - Forms
+ * 5.0 - Navigations
+ * 6.0 - Accessibility
+ * 7.0 - Widgets
+ * 8.0 - Content
+ *   8.1 - Header
+ *   8.2 - Posts and pages
+ *   8.3 - Comments
+ *   8.4 - Footer
+ */
+
+
+/**
+ * 1.0 - Normalize
+ */
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+input[type="checkbox"],
+input[type="radio"] {
+	margin-right: auto;
+	margin-left: 0.4375em;
+}
+.content {
+	float: right;
+}
+.sidebar {
+	float: left;
+}
+
+
+/**
+ * 2.0 - Typography
+ */
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.site-title,
+.site-description,
+.header-inner h3 {
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+::-webkit-input-placeholder {
+	font-family: Arial, Tahoma, sans-serif;
+}
+:-moz-placeholder {
+	font-family: Arial, Tahoma, sans-serif;
+}
+::-moz-placeholder {
+	font-family: Arial, Tahoma, sans-serif;
+}
+:-ms-input-placeholder {
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 700;
+}
+
+
+/**
+ * 3.0 - Elements
+ */
+
+blockquote {
+	border-left: 0;
+	border-right: 8px solid #13c0a2;
+}
+
+
+/**
+ * 4.0 - Forms
+ */
+
+input[type="search"].search-field {
+	padding: 1em 1.5em 1em 8em;
+}
+.search-form .search-button {
+	right: auto;
+	left: 0;
+	border-radius: 3px 0 0 3px;
+}
+
+
+/**
+ * 5.0 - Navigation
+ */
+
+.main-menu li.menu-item-has-children > a,
+.main-menu li.page_item_has_children > a {
+	padding-right: 21px;
+	padding-left: 35px;
+}
+.main-menu > ul > li.menu-item-has-children > a::after,
+.main-menu > ul > li.page_item_has_children > a::after {
+	right: auto;
+	left: 17px;
+}
+.main-menu li li.menu-item-has-children > a::after,
+.main-menu li li.page_item_has_children > a::after {
+	right: auto;
+	left: 10px;
+	border-left-color: transparent;
+	border-right-color: #666;
+}
+.main-menu li li.menu-item-has-children > a:hover::after,
+.main-menu li li.page_item_has_children > a:hover::after {
+	border-left-color: transparent;
+	border-right-color: #2d2d2d;
+}
+.main-menu li ul ul {
+	left: auto;
+	right: 100%;
+}
+
+
+/**
+ * 6.0 - Accessibility
+ */
+
+.site .skip-link {
+	left: auto;
+	right: -9999em;
+}
+
+.site .skip-link:focus {
+	left: auto;
+	right: 6px;
+}
+
+
+/**
+ * 7.0 - Widgets
+ */
+
+.tagcloud a {
+	margin-right: 0;
+	margin-left: 0.1875em;
+}
+
+
+/**
+ * 8.0 - Content
+ */
+
+
+/**
+ * 8.1 - Header
+ */
+
+.site-branding {
+	float: right;
+}
+.site-navigation {
+	float: left;
+}
+
+
+/**
+ * 8.2 - Mobile menu
+ */
+
+.mobile-menu {
+	left: 0;
+	right: auto;
+}
+.mobile-menu-open .site {
+	transform: translate3d(240px, 0, 0);
+	cursor: pointer;
+}
+
+
+/**
+ * 8.3 - Posts and pages
+ */
+
+.sticky-post {
+	right: auto;
+	left: 0;
+}
+
+body.single .header-inner {
+	text-align: right;
+}
+
+
+/**
+ * 8.3 - Comments
+ */
+
+.comment-author .avatar {
+	float: right;
+	margin: -5px 0 0 20px;
+}
+.bypostauthor > article .fn:after {
+	left: auto;
+	right: 3px;
+}
+#cancel-comment-reply-link {
+	float: left;
+	margin: 7px 10px 0 0;
+}
+
+
+/**
+ * 8.4 - Footer
+ */
+
+.copyright {
+	float: right;
+}
+.credits {
+	float: left;
+}

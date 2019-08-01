@@ -1,0 +1,548 @@
+# Translation of Themes - The Minimal in Vietnamese
+# This file is distributed under the same license as the Themes - The Minimal package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-28 18:55:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - The Minimal\n"
+
+#. Description of the plugin/theme
+msgid "The Minimal is a fresh, clean and a minimalist WordPress theme designed for a blog or a magazine. The large featured slider with advance slider options makes this theme a great choice for photography, travel, food, fashion, travel, lifestyle, sports or any other awesome blog.  The clean typography and spacious white layout make it great to share your stories.  The three footer widget areas offer plenty of space for any secondary information, and striking typography makes the content look stunning. The Theme has a built-in Recent Posts widget, Popular Post widget, Social Links widget and Author widget. It features full width page option, two menus, SEO friendly structure, custom logo support and social media links. The Minimal supports all types of post format like links, aside, quotes, galleries, image, audio, video, status and chat. The theme is responsive and scales beautifully with various screen sizes while maintaining the text readability and image quality. The theme is also translation ready."
+msgstr "The Minimal là một giao diện WordPress mới, sạch sẽ và gọn nhẹ được thiết kế cho blog hoặc tạp chí. Thanh trượt nổi bật với các tùy chọn thanh trượt trước làm chủ đề này trở thành lựa chọn tuyệt vời cho nhiếp ảnh, du lịch, ẩm thực, thời trang, du lịch, lối sống, thể thao hoặc bất kỳ blog tuyệt vời nào khác. Giao diện dễ sử dụng và cách bố trí trắng giản dị giúp bạn chia sẻ những câu chuyện của mình thật tuyệt vời. Ba khu vực  footer widget cung cấp nhiều không gian cho bất kỳ thông tin thứ yếu nào và cách đánh máy nổi bật làm cho nội dung trông thật tuyệt. Giao diện có một Widget bài viết được tích hợp sẵn, Widget bài đăng phổ biến, tiện ích Liên kết xã hội và tiện ích Tác giả. Nó có đầy đủ các tùy chọn trang rộng, hai menu, cấu trúc thân thiện với SEO, hỗ trợ biểu tượng tùy chỉnh và liên kết truyền thông xã hội. Minimal hỗ trợ tất cả các loại định dạng bài như liên kết, sang một bên, báo giá, phòng trưng bày, hình ảnh, âm thanh, video, trạng thái và trò chuyện. Chủ đề được đáp ứng và quy mô tuyệt vời với các kích cỡ màn hình khác nhau trong khi duy trì khả năng đọc văn bản và chất lượng hình ảnh. Chủ đề cũng đã được dịch sẵn sàng."
+
+#. Theme Name of the plugin/theme
+msgid "The Minimal"
+msgstr "The Minimal"
+
+#: inc/customizer.php:490 inc/extras.php:186 inc/widget-social-links.php:79
+#: inc/widget-social-links.php:177
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer.php:472 inc/extras.php:184 inc/widget-social-links.php:77
+#: inc/widget-social-links.php:171
+msgid "VK"
+msgstr "VK"
+
+#: inc/customizer.php:454 inc/extras.php:182 inc/widget-social-links.php:75
+#: inc/widget-social-links.php:165
+msgid "OK"
+msgstr "OK"
+
+#: inc/info.php:165
+msgid "VIEW PRO THEME"
+msgstr "XEM THEME BẢN PRO"
+
+#: inc/info.php:163
+msgid "Pro Available"
+msgstr "Pro sẵn có"
+
+#: inc/info.php:42
+msgid "Pro Version"
+msgstr "Phiên bản chuyên nghiệp"
+
+#: inc/info.php:29
+msgid "About The Minimal"
+msgstr "Giới thiệu The Minimal"
+
+#: inc/info.php:25
+msgid "More Details"
+msgstr "Chi tiết hơn"
+
+#: inc/info.php:24
+msgid "Support ticket"
+msgstr "Nhận Hỗ trợ"
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr "Xem tài liệu"
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:24 inc/info.php:25
+msgid "here"
+msgstr "đây"
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr "Xem demo"
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr "Cần giúp đỡ?"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Liên kết thông tin"
+
+#: comments.php:95
+msgid "Comment"
+msgstr "Bình luận"
+
+#: comments.php:80
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:77
+msgid "Email*"
+msgstr "Email*"
+
+#: comments.php:74
+msgid "Name*"
+msgstr "Tên*"
+
+#: inc/extras.php:369
+msgid "The Minimal by: Rara Theme"
+msgstr "The Minimal by: Rara Theme"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:47
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:35 template-parts/content.php:59
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp đỡ."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Tìm kiếm kết quả cho: %s"
+
+#: inc/widget-social-links.php:119 inc/widget-social-links.php:125
+#: inc/widget-social-links.php:131 inc/widget-social-links.php:137
+#: inc/widget-social-links.php:143 inc/widget-social-links.php:149
+#: inc/widget-social-links.php:155 inc/widget-social-links.php:161
+#: inc/widget-social-links.php:167 inc/widget-social-links.php:173
+#: inc/widget-social-links.php:179
+msgid "Leave blank if you do not want to show."
+msgstr "Để trống nếu bạn không muốn hiển thị."
+
+#: inc/widget-social-links.php:69
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/widget-social-links.php:40 inc/widget-social-links.php:96
+#: inc/widget-social-links.php:197
+msgid "Social"
+msgstr "Mạng Xã hội"
+
+#: inc/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr "Tiện ích liên kết mạng xã hội"
+
+#: inc/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr "RARA: Liên kết mạng xã hội"
+
+#: inc/widget-recent-post.php:40 inc/widget-recent-post.php:93
+#: inc/widget-recent-post.php:135
+msgid "Recent Posts"
+msgstr "Bài gần đây"
+
+#: inc/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Widget bài viết gần đây"
+
+#: inc/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: Bài viết gần đây"
+
+#: inc/widget-popular-post.php:120 inc/widget-recent-post.php:117
+msgid "Show Post Date"
+msgstr "Hiển thị ngày bài viết"
+
+#: inc/widget-popular-post.php:109 inc/widget-recent-post.php:106
+msgid "Number of Posts"
+msgstr "Số bài viết"
+
+#: inc/widget-popular-post.php:104 inc/widget-recent-post.php:101
+#: inc/widget-social-links.php:112
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/widget-popular-post.php:40 inc/widget-popular-post.php:96
+#: inc/widget-popular-post.php:138
+msgid "Popular Posts"
+msgstr "Bài viết phổ biến"
+
+#: inc/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Widget bài viết phổ biến"
+
+#: inc/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Bài viết phổ biến"
+
+#: inc/widget-featured-post.php:123 inc/widget-popular-post.php:115
+#: inc/widget-recent-post.php:112
+msgid "Show Post Thumbnail"
+msgstr "Hiển thị hình thu nhỏ bài viết"
+
+#: inc/widget-featured-post.php:117
+msgid "Excerpt Character"
+msgstr "Nhân vật trích dẫn"
+
+#: inc/widget-featured-post.php:113
+msgid "Read More Text"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/widget-featured-post.php:103
+msgid "Posts"
+msgstr "Bài viết"
+
+#: inc/widget-featured-post.php:84
+msgid "--choose--"
+msgstr "--chọn--"
+
+#: inc/widget-featured-post.php:39 inc/widget-featured-post.php:96
+#: inc/widget-featured-post.php:142
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/widget-featured-post.php:26
+msgid "A Featured Post Widget"
+msgstr "Widget bài viết nổi bật"
+
+#: inc/widget-featured-post.php:25
+msgid "RARA: Featured Post"
+msgstr "RARA: Bài viết nổi bật"
+
+#: inc/template-tags.php:87
+msgid "Page"
+msgstr "Trang"
+
+#: inc/template-tags.php:86
+msgid "Next"
+msgstr "Kế tiếp"
+
+#: inc/template-tags.php:85
+msgid "Previous"
+msgstr "Trước"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:68 template-parts/content-page.php:46
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#: inc/template-tags.php:61
+msgid "TAGGED WITH: %1$s"
+msgstr "ĐƯỢC GẮN THẺ VỚI: %1$s"
+
+#: inc/template-tags.php:55
+msgid "FILED UNDER: %1$s"
+msgstr "NỘP THEO: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53 inc/template-tags.php:59
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:35
+msgctxt "post comment"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:32
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Ý kiến"
+
+#: inc/template-tags.php:28
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr "Chọn Mẫu Sidebar"
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr "Không có thanh bên"
+
+#: inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr "Thanh bên phải (mặc định)"
+
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr "Bố cục Sidebar"
+
+#: inc/extras.php:370
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/extras.php:370
+msgid "Powered by: %s"
+msgstr "Powered by: %s"
+
+#: inc/extras.php:367
+msgid "Copyright &copy; "
+msgstr "Bản quyền & bản sao; "
+
+#: inc/extras.php:282
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#. translators: 1: date, 2: time
+#: inc/extras.php:282 inc/widget-popular-post.php:73
+#: inc/widget-recent-post.php:70
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/extras.php:275
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ kiểm duyệt."
+
+#: inc/extras.php:272
+msgid "<b class=\"fn\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\">%s</b> <span class=\"says\">nói:</span>"
+
+#: inc/customizer.php:523
+msgid "Put your custom CSS"
+msgstr "Đặt CSS tuỳ chỉnh của bạn"
+
+#: inc/customizer.php:521
+msgid "Custom Css"
+msgstr "Css Tuỳ chỉnh"
+
+#: inc/customizer.php:503
+msgid "Custom CSS Settings"
+msgstr "Cài đặt CSS Tuỳ chỉnh"
+
+#: inc/customizer.php:436 inc/extras.php:180 inc/widget-social-links.php:73
+#: inc/widget-social-links.php:159
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer.php:418 inc/extras.php:178 inc/widget-social-links.php:71
+#: inc/widget-social-links.php:153
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer.php:400 inc/extras.php:176 inc/widget-social-links.php:147
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:382 inc/extras.php:174 inc/widget-social-links.php:67
+#: inc/widget-social-links.php:141
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:364 inc/extras.php:172 inc/widget-social-links.php:65
+#: inc/widget-social-links.php:135
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer.php:346 inc/extras.php:170 inc/widget-social-links.php:63
+#: inc/widget-social-links.php:129
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:328 inc/extras.php:168 inc/widget-social-links.php:61
+#: inc/widget-social-links.php:123
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:310 inc/extras.php:166 inc/widget-social-links.php:59
+#: inc/widget-social-links.php:117
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:292
+msgid "Enable Social Links"
+msgstr "Bật liên kết mạng xã hội"
+
+#: inc/customizer.php:274
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Để trống nếu bạn không muốn hiển thị liên kết mạng xã hội."
+
+#: inc/customizer.php:273
+msgid "Social Settings"
+msgstr "Thiết lập mạng xã hội"
+
+#: inc/customizer.php:261
+msgid "Choose Slider Category"
+msgstr "Chọn danh mục Trình chiếu"
+
+#: inc/customizer.php:243
+msgid "Readmore Text"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/customizer.php:235 inc/extras.php:200
+#: template-parts/content-search.php:27 template-parts/content.php:66
+msgid "Continue Reading"
+msgstr "Tiếp tục đọc"
+
+#: inc/customizer.php:225
+msgid "Animation Speed"
+msgstr "Tốc độ Linh hoạt"
+
+#: inc/customizer.php:207
+msgid "Slider Speed"
+msgstr "Tốc độ Trình chiếu"
+
+#: inc/customizer.php:190
+msgid "Slide"
+msgstr "Trình chiếu"
+
+#: inc/customizer.php:189
+msgid "Fade"
+msgstr "Phai màu"
+
+#: inc/customizer.php:185
+msgid "Choose Slider Animation"
+msgstr "Chọn Slider linh hoạt"
+
+#: inc/customizer.php:167
+msgid "Enable Slider Thumbnail"
+msgstr "Bật hình thu nhỏ của thanh trượt"
+
+#: inc/customizer.php:149
+msgid "Enable Slider Caption"
+msgstr "Bật Phụ đề Slider"
+
+#: inc/customizer.php:131
+msgid "Enable Slider Control"
+msgstr "Bật điều khiển trượt"
+
+#: inc/customizer.php:113
+msgid "Enable Slider Loop"
+msgstr "Bật thanh vòng lặp trình chiếu"
+
+#: inc/customizer.php:95
+msgid "Enable Slider Auto Transition"
+msgstr "Bật tự động chuyển trình chiếu"
+
+#: inc/customizer.php:77
+msgid "Enable Home Page Slider"
+msgstr "Kích hoạt tính năng Slider Trang chủ"
+
+#: inc/customizer.php:59
+msgid "Slider Settings"
+msgstr "Cài đặt thanh trượt"
+
+#: inc/customizer.php:39
+msgid "Default section provided by wordpress customizer."
+msgstr "Phần mặc định được cung cấp bởi wordpress customizer."
+
+#: inc/customizer.php:38
+msgid "Default Settings"
+msgstr "Thiết lập mặc định"
+
+#: inc/customizer.php:26
+msgid "Choose Category"
+msgstr "Chọn Thể Loại"
+
+#: functions.php:169
+msgid "Footer Three"
+msgstr "Cuối trang Ba"
+
+#: functions.php:159
+msgid "Footer Two"
+msgstr "Cuối trang hai"
+
+#: functions.php:149
+msgid "Footer One"
+msgstr "Cuối trang đầu tiên"
+
+#: functions.php:139
+msgid "Right Sidebar"
+msgstr "Sidebar bên phải"
+
+#: functions.php:48
+msgid "Secondary"
+msgstr "Thứ hai"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "Sơ cấp"
+
+#: comments.php:106
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Đăng nhập như <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Đăng xuất khỏi tài khoản này\">Đăng xuất?</a>"
+
+#: comments.php:100
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "bạn phải <a href=\"%s\">đăng nhập</a>để đăng bình luận."
+
+#: comments.php:92
+msgid "POST COMMENT"
+msgstr "ĐĂNG BÌNH LUẬN"
+
+#: comments.php:91
+msgid "Cancel Reply"
+msgstr "Hủy trả lời"
+
+#: comments.php:90
+msgid "Leave a Reply to %s"
+msgstr "Để lại trả lời đến %s"
+
+#: comments.php:89
+msgid "Leave a Reply"
+msgstr "Để lại Trả lời"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: comments.php:49
+msgid "Newer Comments"
+msgstr "Các bình luận mới hơn"
+
+#: comments.php:48
+msgid "Older Comments"
+msgstr "Các bình luận cũ hơn"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "Bình luận"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links or a search?"
+msgstr "Có vẻ như không có gì được tìm thấy tại địa điểm này. Có thể thử một trong các liên kết hoặc tìm kiếm?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
+
+#. Theme URI of the plugin/theme
+msgid "http://raratheme.com/wordpress-themes/the-minimal/"
+msgstr "http://raratheme.com/wordpress-themes/the-minimal/"
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr "Rara Theme"

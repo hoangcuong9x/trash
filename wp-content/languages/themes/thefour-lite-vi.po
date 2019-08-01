@@ -1,0 +1,442 @@
+# Translation of Themes - TheFour Lite in Vietnamese
+# This file is distributed under the same license as the Themes - TheFour Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-28 07:09:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - TheFour Lite\n"
+
+#. Description of the plugin/theme
+msgid "TheFour is a beautiful, creative and responsive theme for bloggers, designers and businesses. Features responsive design, retina-ready assets, impressive hero image with parallax scrolling effect, custom logo, page templates and translation-ready code."
+msgstr "TheFour là một chủ đề đẹp, sáng tạo và đáp ứng cho các blogger, nhà thiết kế và doanh nghiệp. Tính năng thiết kế đáp ứng, tài sản võng mạc sẵn sàng, hình ảnh anh hùng ấn tượng với hiệu ứng cuộn thị sai, biểu tượng tùy chỉnh, mẫu trang và mã dịch sẵn sàng."
+
+#. Theme Name of the plugin/theme
+msgid "TheFour Lite"
+msgstr "TheFour Lite"
+
+#. Translators: %1$s - Theme name, %2$s - Theme version.
+#: inc/dashboard/sections/welcome.php:12
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Chào mừng bạn đến với%1$s - Phiên bản %2$s"
+
+#: inc/dashboard/sections/tabs.php:11
+msgid "Free vs. PRO"
+msgstr "Free vs. PRO"
+
+#: inc/dashboard/sections/tabs.php:10
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: inc/dashboard/sections/pro.php:102
+msgid "Get TheFour PRO now"
+msgstr "Sử dụng The Four PRO ngay"
+
+#: inc/dashboard/sections/pro.php:94
+msgid "You will benefit of our full support for any issues you have with the theme."
+msgstr "Bạn sẽ được hưởng lợi từ sự hỗ trợ đầy đủ của chúng tôi đối với bất kỳ vấn đề nào bạn có với chủ đề."
+
+#: inc/dashboard/sections/pro.php:93
+msgid "Priority Support"
+msgstr "Hỗ trợ ưu tiên"
+
+#: inc/dashboard/sections/pro.php:86
+msgid "Show the testimonials from your customers to build the trust for your products and services."
+msgstr "Hiển thị lời chứng thực từ khách hàng của bạn để xây dựng niềm tin cho sản phẩm và dịch vụ của bạn."
+
+#: inc/dashboard/sections/pro.php:85
+msgid "Testimonial"
+msgstr "Lời chứng thực"
+
+#: inc/dashboard/sections/pro.php:78
+msgid "Create awesome portfolio with Jetpack and show them beautifully in the frontend."
+msgstr "Tạo danh mục đầu tư tuyệt vời với Jetpack và hiển thị chúng đẹp mắt trong giao diện người dùng."
+
+#: inc/dashboard/sections/pro.php:77
+msgid "Portfolio"
+msgstr "Danh mục đầu tư"
+
+#: inc/dashboard/sections/pro.php:70
+msgid "Load more posts when to reach to the end of the page. Support auto mode and manual mode."
+msgstr "Tải thêm bài đăng khi đến cuối trang. Hỗ trợ chế độ tự động và chế độ thủ công."
+
+#: inc/dashboard/sections/pro.php:69
+msgid "Infinite Scroll"
+msgstr "Cuộn vô hạn"
+
+#: inc/dashboard/sections/pro.php:62
+msgid "Customize colors of any element on your website."
+msgstr "Tùy chỉnh màu sắc của bất kỳ yếu tố nào trên trang web của bạn."
+
+#: inc/dashboard/sections/pro.php:61
+msgid "Custom Colors"
+msgstr "Màu sắc tùy chỉnh."
+
+#: inc/dashboard/sections/pro.php:54
+msgid "Integrated all Google Fonts with various options to customize for a beautiful typography."
+msgstr "Tích hợp tất cả Phông chữ của Google với các tùy chọn khác nhau để tùy chỉnh cho một kiểu chữ đẹp mắt."
+
+#: inc/dashboard/sections/pro.php:53
+msgid "Custom Google Fonts"
+msgstr "Phông chữ Google tùy chỉnh"
+
+#: inc/dashboard/sections/pro.php:46
+msgid "Save time setting up the theme and get exactly what you see in the demo."
+msgstr "Tiết kiệm thời gian thiết lập chủ đề và nhận được chính xác những gì bạn thấy trong bản demo."
+
+#: inc/dashboard/sections/pro.php:45
+msgid "1-Click Demo Import"
+msgstr "1-Nhấp vào Nhập khẩu bản trình diễn"
+
+#: inc/dashboard/sections/pro.php:38
+msgid "Supports custom logo in WordPress 4.5. Upload your logo has never been easier."
+msgstr "Hỗ trợ biểu tượng tùy chỉnh trong WordPress 4.5. Tải lên logo của bạn chưa bao giờ dễ dàng hơn thế."
+
+#: inc/dashboard/sections/pro.php:37
+msgid "Custom Logo"
+msgstr "Biểu tượng tùy chỉnh"
+
+#: inc/dashboard/sections/pro.php:30
+msgid "Setup your static front page with content sections like in the demo."
+msgstr "Thiết lập trang tĩnh của bạn với các phần nội dung như trong bản trình diễn."
+
+#: inc/dashboard/sections/pro.php:29
+msgid "Front Page Sections"
+msgstr "Phần trang trước"
+
+#: inc/dashboard/sections/pro.php:22
+msgid "Works in any browsers on desktops, tablets and mobile devices and optimized for speed."
+msgstr "Hoạt động trong mọi trình duyệt trên máy tính để bàn, máy tính bảng và thiết bị di động và được tối ưu hóa cho tốc độ."
+
+#: inc/dashboard/sections/pro.php:21
+msgid "Responsive Design"
+msgstr "Thiết kế đáp ứng"
+
+#: inc/dashboard/sections/pro.php:15
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/dashboard/sections/pro.php:14
+msgid "Lite"
+msgstr "Lite"
+
+#: inc/dashboard/sections/getting-started.php:20
+msgid "Read Documentation"
+msgstr "Đọc tài liệu"
+
+#: inc/dashboard/sections/getting-started.php:18
+msgid "Need any help to setup and configure the theme? Please check our full documentation for detailed information on how to use it."
+msgstr "Bạn cần trợ giúp để thiết lập và định cấu hình chủ đề? Vui lòng kiểm tra tài liệu đầy đủ của chúng tôi để biết thông tin chi tiết về cách sử dụng nó."
+
+#: inc/dashboard/sections/getting-started.php:17
+msgid "Read Full Documentation"
+msgstr "Đọc tài liệu đầy đủ"
+
+#: inc/dashboard/sections/getting-started.php:15
+msgid "Start Customize"
+msgstr "Bắt đầu tùy chỉnh"
+
+#: inc/dashboard/sections/getting-started.php:13
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Sử dụng WordPress Customizer, bạn có thể dễ dàng tùy chỉnh mọi khía cạnh của chủ đề."
+
+#: inc/dashboard/sections/getting-started.php:12
+msgid "Customize The Theme"
+msgstr "Tùy chỉnh chủ đề"
+
+#: index.php:37 search.php:26
+msgid "Next &rarr;"
+msgstr "Tiếp theo & rarr"
+
+#. translators: %s: post title
+#: inc/template-tags.php:85
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Để lại một bình luận <span class=\"screen-reader-text\"> trên%s</span>"
+
+#: inc/customizer.php:130
+msgid "Image Section Title"
+msgstr "Tiêu đề mục hình ảnh"
+
+#: inc/customizer.php:115
+msgid "Displayed at the bottom of a static front page."
+msgstr "Hiển thị ở cuối trang tĩnh."
+
+#: inc/customizer.php:113
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: inc/customizer.php:79
+msgid "Use this section to display special offers for your products or services."
+msgstr "Sử dụng phần này để hiển thị các ưu đãi đặc biệt cho sản phẩm hoặc dịch vụ của bạn."
+
+#: inc/customizer.php:76
+msgid "Call To Action Section Content"
+msgstr "Nội dung mục gọi hành động"
+
+#: inc/customizer.php:60
+msgid "Testimonial Section Title"
+msgstr "Tiêu đề phần lời chứng thực"
+
+#: inc/customizer.php:55 inc/customizer.php:213
+msgid "Testimonials"
+msgstr "Lời chứng thực"
+
+#: inc/customizer.php:43
+msgid "Portfolio Section Title"
+msgstr "Tiêu đề mục danh mục đầu tư"
+
+#: inc/customizer.php:38 inc/customizer.php:206
+msgid "Recent Work"
+msgstr "Công việc gần đây"
+
+#: inc/customizer.php:33
+msgid "The content of this page will be displayed below the hero area on your static front page."
+msgstr "Nội dung của trang này sẽ được hiển thị bên dưới khu vực anh hùng trên trang chủ tĩnh của bạn."
+
+#: inc/customizer.php:29
+msgid "Features Page"
+msgstr "Trang tính năng"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Tùy chọn chủ đề"
+
+#: inc/custom-header.php:29
+msgid "Work Space"
+msgstr "Không gian làm việc"
+
+#: comments.php:40
+msgid "Newer comments &rarr;"
+msgstr "Nhận xét mới hơn & rarr;"
+
+#: comments.php:39
+msgid "&larr; Older comments"
+msgstr "&larr; Nhận xét cũ hơn"
+
+#: inc/customizer.php:89 inc/customizer.php:220 template-parts/home/blog.php:21
+msgid "Recent Posts"
+msgstr "Bài đăng gần đây"
+
+#: template-parts/hero.php:49
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+#: inc/template-tags.php:82
+msgid "%1$s by %2$s &mdash; in %3$s."
+msgstr "%1$s theo %2$s &mdash; trong %3$s."
+
+#: template-parts/content.php:13
+msgid "Featured"
+msgstr "Đặc sắc"
+
+#: template-parts/content-none.php:24
+msgid "Get started here"
+msgstr "hãy bắt đầu từ đây"
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? %s."
+msgstr "Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? %s."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:102
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Chỉnh sửa <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: single.php:24 template-parts/content.php:50
+msgid "Page"
+msgstr "Trang"
+
+#: single.php:22 template-parts/content.php:48
+msgid "Pages:"
+msgstr "Trang"
+
+#: searchform.php:12
+msgid "Enter keyword here"
+msgstr "Nhập từ khóa tại đây"
+
+#: index.php:25
+msgid "Page %1$s of %2$s"
+msgstr "Trang %1$s trên %2$s"
+
+#: inc/template-tags.php:64
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Được đăng trên"
+
+#: inc/customizer/customizer.php:54
+msgid "Use this section to display special offers for your products or services. To display buttons, use a link with class <code>button</code> or <code>button-minimal</code>."
+msgstr "Sử dụng phần này để hiển thị các ưu đãi đặc biệt cho sản phẩm hoặc dịch vụ của bạn. Để hiển thị các nút, sử dụng liên kết với nút <code> lớp </code> hoặc <code> nút-tối thiểu </code>."
+
+#: inc/customizer/customizer.php:51
+msgid "Call to action section content"
+msgstr "Nội dung phần gọi hành động"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:131
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "trên "
+
+#: functions.php:91
+msgid "Appears in the footer section of the site."
+msgstr "Xuất hiện trong phần chân trang của trang web."
+
+#: functions.php:82
+msgid "Main sidebar that appears on the right."
+msgstr "Thanh bên chính xuất hiện ở bên phải."
+
+#: functions.php:81
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: footer.php:27
+msgid "Theme: %1$s by %2$s."
+msgstr "Chủ đề:%1$s theo %2$s."
+
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: 404.php:13
+msgid "It seems like you have tried to open a page that doesn't exist. You are welcome to search for what you are looking for with the form below."
+msgstr "Có vẻ như bạn đã cố mở một trang không tồn tại. Bạn được hoan nghênh tìm kiếm những gì bạn đang tìm kiếm với mẫu dưới đây."
+
+#: functions.php:90
+msgid "Footer"
+msgstr "Chân trang"
+
+#. Template Name of the plugin/theme
+msgid "Grid"
+msgstr "Lưới"
+
+#: template-parts/content-none.php:36
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp bạn."
+
+#: template-parts/content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác nhau."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không kết quả"
+
+#: single.php:48
+msgid "Previous post:"
+msgstr "bài trước:"
+
+#: single.php:48
+msgid "Previous"
+msgstr "Trước"
+
+#: single.php:47
+msgid "Next post:"
+msgstr "Bài tiếp theo:"
+
+#: single.php:47
+msgid "Next"
+msgstr "Kế tiếp"
+
+#: searchform.php:15
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Tìm kiếm cho:"
+
+#: index.php:36 search.php:25
+msgid "&larr; Previous"
+msgstr "&larr; Trước"
+
+#: inc/template-tags.php:16 inc/template-tags.php:30
+#: template-parts/content.php:32
+msgid "Continue reading &rarr; %s"
+msgstr "Tiếp tục đọc &rarr; %s"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:147
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "không có tập con"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:139
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "trên"
+
+#: template-parts/hero.php:46
+msgid "Search results: \"%s\""
+msgstr "Kết quả tìm kiếm: \"%s\""
+
+#: inc/customizer/customizer.php:75
+msgid "Flourish section title"
+msgstr "Flourish section title"
+
+#: inc/customizer/customizer.php:68
+msgid "The flourish image will be displayed in the bottom of the front page. This can be an image of client logos, a promotional banner, a map showing where your business is located or anything else that you can think to put in this space."
+msgstr "Hình ảnh phát triển sẽ được hiển thị ở cuối trang chủ. Đây có thể là hình ảnh logo của khách hàng, biểu ngữ quảng cáo, bản đồ hiển thị vị trí doanh nghiệp của bạn hoặc bất kỳ thứ gì khác mà bạn có thể nghĩ để đưa vào không gian này."
+
+#: inc/customizer/customizer.php:65
+msgid "Flourish"
+msgstr "Flourish"
+
+#: inc/customizer.php:94
+msgid "Blog Section Title"
+msgstr "Tiêu đề mục Blog"
+
+#: functions.php:53
+msgid "Header"
+msgstr "Tiêu đề"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#: header.php:47
+msgid "Menu"
+msgstr "Thực đơn"
+
+#: header.php:46
+msgid "Primary Navigation"
+msgstr "định hương đâu tiên"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "Tự hào được cung cấp bởi %s"
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "Các ý kiến đóng lại."
+
+#: comments.php:26
+msgid "% Comments"
+msgstr "% bình luận"
+
+#: comments.php:26
+msgid "1 Comment"
+msgstr "1 bình luận"
+
+#. Author URI of the plugin/theme
+msgid "https://gretathemes.com"
+msgstr "https://gretathemes.com"
+
+#. Author of the plugin/theme
+msgid "GretaThemes"
+msgstr "GretaThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://gretathemes.com/wordpress-themes/thefour/"
+msgstr "https://gretathemes.com/wordpress-themes/thefour/"

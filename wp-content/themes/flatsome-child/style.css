@@ -1,0 +1,91 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+.icon-user:before {
+    font-size: 20px;
+}
+.nav>li>a {
+    padding: 10px 5px;
+    font-family: "Roboto","Helvetica Neue",Arial,sans-serif;
+    display: inline-block;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-wrap: wrap;
+    font-weight: 520;
+    line-height: 1.6;
+    flex-wrap: wrap;
+    letter-spacing: 1px;
+    -ms-flex-align: center;
+    align-items: center;
+    color: #000;
+}
+.has-dropdown .icon-angle-down {
+	display: none;
+}
+.nav>li>a.nav-top-link:hover {
+	color: rgba(102,102,102,0.85);
+}
+.nav-small .nav>li>a, .nav.nav-small>li>a{
+    color: rgba(102,102,102,0.85);
+}
+.slider-nav-light .flickity-page-dots .dot {
+    display: none;
+}
+.nav>li.header-divider {
+    border-left: none; 
+    height: 30px;
+    vertical-align: middle;
+    position: relative;
+    margin: 0 7.5px;
+}
+.header-top {
+     min-height: 0; 
+}
+[data-icon-label]:after {
+    content: attr(data-icon-label);
+    position: relative;
+    font-style: normal;
+    font-family: Arial,Sans-serif !important;
+    top: 0;
+    right: 0;
+    font-weight: bolder;
+     background-color: #fcf2e0; 
+     box-shadow: none; 
+    font-size: 11px;
+    padding-left: 2px;
+    padding-right: 2px;
+    opacity: .9;
+    line-height: 17px;
+    /* letter-spacing: -.5px; */
+    height: 17px;
+    min-width: 17px;
+    border: 0;
+    border-radius: 0;
+    color: black;
+    text-align: center;
+    z-index: 1;
+    transition: transform .2s;
+}
+#text-box-1189318586 {
+    width: 80%;
+}
+.nav-small [data-icon-label]:after {
+    min-width: 13px;
+    top: 0px;
+    right: 4px;
+    height: 13px;
+    font-size: 22px;
+    line-height: 13px;
+}
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}

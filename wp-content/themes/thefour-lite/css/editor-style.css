@@ -1,0 +1,937 @@
+/**
+ * Editor style
+ * -----------------------------------------------------------------------------
+ */
+/**
+ * 1.0 - Normalize
+ *
+ * normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css
+ *
+ * -----------------------------------------------------------------------------
+ */
+html {
+	font-family: sans-serif;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+body {
+	margin: 0;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+	display: block;
+}
+audio,
+canvas,
+progress,
+video {
+	display: inline-block;
+	vertical-align: baseline;
+}
+audio:not([controls]) {
+	display: none;
+	height: 0;
+}
+[hidden],
+template {
+	display: none;
+}
+a {
+	background-color: transparent;
+}
+a:active,
+a:hover {
+	outline: 0;
+}
+abbr[title] {
+	border-bottom: 1px dotted;
+}
+b,
+strong {
+	font-weight: bold;
+}
+dfn {
+	font-style: italic;
+}
+h1 {
+	font-size: 2em;
+	margin: 0.67em 0;
+}
+mark {
+	background: #ff0;
+	color: #000;
+}
+small {
+	font-size: 80%;
+}
+sub,
+sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+sup {
+	top: -0.5em;
+}
+sub {
+	bottom: -0.25em;
+}
+img {
+	border: 0;
+	max-width: 100%;
+	height: auto;
+}
+svg:not(:root) {
+	overflow: hidden;
+}
+figure {
+	margin: 1em 40px;
+}
+hr {
+	height: 0;
+}
+code,
+kbd,
+pre,
+samp {
+	font-family: monospace, monospace;
+	font-size: 0.84090145em;
+	color: #c01331;
+}
+pre {
+	overflow: auto;
+	padding: .7em 1.2em;
+	background: #333;
+	color: #eee;
+}
+pre code {
+	color: #eee;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+	color: inherit;
+	font: inherit;
+	margin: 0;
+}
+button {
+	overflow: visible;
+}
+button,
+select {
+	text-transform: none;
+}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	-webkit-appearance: button;
+	cursor: pointer;
+}
+button[disabled],
+html input[disabled] {
+	cursor: default;
+}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+}
+input {
+	line-height: normal;
+}
+input[type="checkbox"],
+input[type="radio"] {
+	box-sizing: border-box;
+	padding: 0;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+	height: auto;
+}
+input[type="search"] {
+	-webkit-appearance: textfield;
+}
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+fieldset {
+	border: 1px solid #c0c0c0;
+	margin: 0 2px;
+	padding: 0.35em 0.625em 0.75em;
+}
+legend {
+	border: 0;
+	padding: 0;
+}
+textarea {
+	overflow: auto;
+}
+optgroup {
+	font-weight: bold;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+	margin: 0 0 2em;
+}
+td,
+th {
+	padding: .5em 1.2em;
+}
+tr {
+	border-bottom: 1px solid #ddd;
+}
+tr:nth-child(even) {
+	background: #f3f3f3;
+}
+/**
+ * 3.0 - Grid system
+ *
+ * -----------------------------------------------------------------------------
+ */
+.row,
+.grid {
+	margin-left: -2.5%;
+	margin-right: -2.5%;
+}
+.row:before,
+.grid:before,
+.row:after,
+.grid:after {
+	content: " ";
+	display: table;
+}
+.row:after,
+.grid:after {
+	clear: both;
+}
+.row.collapse,
+.grid.collapse {
+	margin-left: 0;
+	margin-right: 0;
+}
+.column {
+	position: relative;
+	min-height: 1px;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	width: 100%;
+}
+.collapse .column {
+	padding-left: 0;
+	padding-right: 0;
+}
+@media (min-width: 768px) {
+	.one-half,
+	.one-third,
+	.two-third,
+	.one-fourth,
+	.two-fourth,
+	.three-fourth,
+	.one-fifth,
+	.two-fifth,
+	.three-fifth,
+	.four-fifth {
+		width: 50%;
+	}
+}
+@media (min-width: 992px) {
+	.one-third {
+		width: 33.33333333%;
+	}
+	.two-third {
+		width: 66.66666667%;
+	}
+	.one-fourth {
+		width: 25%;
+	}
+	.three-fourth {
+		width: 75%;
+	}
+	.one-fifth {
+		width: 20%;
+	}
+	.two-fifth {
+		width: 40%;
+	}
+	.three-fifth {
+		width: 60%;
+	}
+	.four-fifth {
+		width: 80%;
+	}
+}
+.grid .column {
+	margin-bottom: 5%;
+}
+@media (min-width: 768px) {
+	.grid .column:nth-of-type(2n+1) {
+		clear: left;
+	}
+}
+@media (min-width: 992px) {
+	.grid .column:nth-of-type(2n+1) {
+		clear: none;
+	}
+	.grid .column.one-half:nth-of-type(2n+1),
+	.grid .column.one-third:nth-of-type(3n+1),
+	.grid .column.one-fourth:nth-of-type(4n+1),
+	.grid .column.one-fifth:nth-of-type(5n+1) {
+		clear: left;
+	}
+}
+.grid.collapse .column {
+	margin-bottom: 0;
+}
+/**
+ * General HTML elements and classes
+ *
+ * -----------------------------------------------------------------------------
+ */
+* {
+	box-sizing: border-box;
+}
+body {
+	color: #444;
+	font: 17px/1.8 'Open Sans', sans-serif;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background: #fff;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: Montserrat, sans-serif;
+	font-weight: 500;
+	line-height: 1.2;
+	margin: 1.333em 0 .5em;
+	color: #212121;
+}
+h1 {
+	font-size: 1.99995214em;
+	letter-spacing: -0.04em;
+}
+h2 {
+	font-size: 1.68176264em;
+	letter-spacing: -0.04em;
+}
+h3 {
+	font-size: 1.41419664em;
+}
+h4 {
+	font-size: 1.1892em;
+}
+h5 {
+	font-size: 1em;
+}
+h6 {
+	font-size: 0.84090145em;
+	text-transform: uppercase;
+}
+p {
+	margin: 0 0 2em;
+}
+blockquote {
+	color: #888;
+	margin: 0;
+	text-align: center;
+	font-size: 1.1892em;
+	font-style: italic;
+}
+blockquote:before,
+blockquote:after {
+	display: block;
+	content: '';
+	position: relative;
+	width: 2em;
+	border-top: 2px solid #eee;
+	margin: 2em auto;
+}
+blockquote.alignright,
+blockquote.alignleft {
+	max-width: 360px;
+	padding: 2em 0;
+	margin: 0;
+}
+blockquote.alignright:before,
+blockquote.alignleft:before,
+blockquote.alignright:after,
+blockquote.alignleft:after {
+	display: none;
+}
+blockquote.alignleft {
+	text-align: left;
+}
+blockquote.alignright {
+	text-align: right;
+}
+blockquote p {
+	margin-bottom: 1em;
+}
+blockquote p:last-child {
+	margin: 0;
+}
+blockquote cite {
+	display: block;
+	margin-top: .5em;
+	font-size: 0.70711524em;
+	font-style: normal;
+	text-transform: uppercase;
+}
+a {
+	color: #13c0a2;
+	text-decoration: none;
+	transition: all .3s;
+}
+a:hover {
+	text-decoration: underline;
+}
+input,
+textarea,
+select {
+	padding: 0 1.2em;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	border-radius: 3px;
+	transition: all .3s;
+	color: #444;
+	max-width: 100%;
+	line-height: 48px;
+	height: 50px;
+}
+textarea {
+	padding: .7em 1.2em;
+	width: 100%;
+	height: 8em;
+	line-height: 1.8;
+}
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+.button,
+.button-minimal {
+	padding: 0 1.4em;
+	margin: 0;
+	border-radius: 3px;
+	border: 1px solid #13c0a2;
+	background: #13c0a2;
+	color: #fff;
+	font-size: 0.84090145em;
+	line-height: 50px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: bold;
+	transition: all .3s;
+	display: inline-block;
+}
+button:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover,
+.button:hover,
+.button-minimal:hover,
+button:focus,
+input[type="submit"]:focus,
+input[type="reset"]:focus,
+input[type="button"]:focus,
+.button:focus,
+.button-minimal:focus {
+	background: #109d85;
+	border-color: #109d85;
+	color: #fff;
+	text-decoration: none;
+}
+.button-minimal {
+	background: transparent;
+	border-color: rgba(0, 0, 0, 0.3);
+	color: #666;
+}
+.button-minimal:hover {
+	background: #13c0a2;
+	color: #fff;
+	border-color: #13c0a2;
+}
+.site-header .button-minimal {
+	border-color: rgba(255, 255, 255, 0.3);
+	font-weight: 400;
+	color: rgba(255, 255, 255, 0.75);
+}
+.site-header .button-minimal:hover {
+	background: rgba(255, 255, 255, 0.05);
+	border-color: rgba(255, 255, 255, 0.3);
+}
+caption {
+	text-align: center;
+	padding: 2%;
+}
+nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+:focus,
+:active {
+	outline: 0;
+}
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	/* 1 */
+	display: table;
+	/* 2 */
+}
+.clearfix:after {
+	clear: both;
+}
+u,
+.underline {
+	border-bottom: 1px solid #ddd;
+	text-decoration: none;
+}
+big,
+.highlight {
+	font-size: 1.1892em;
+}
+.hidden {
+	display: none;
+}
+.clear {
+	clear: both;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+::-moz-selection {
+	background: #13c0a2;
+	color: #fff;
+}
+::selection {
+	background: #13c0a2;
+	color: #fff;
+}
+::-webkit-input-placeholder {
+	color: #a9a9a9;
+}
+:-ms-input-placeholder {
+	color: #a9a9a9;
+}
+.says,
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+.screen-reader-text:focus {
+	clip: auto !important;
+	display: block;
+	height: auto;
+	left: 5px;
+	top: 5px;
+	width: auto;
+	z-index: 100000;
+	/* Above WP toolbar. */
+}
+.container {
+	width: 1170px;
+	max-width: 91.40625%;
+	margin: 0 auto;
+}
+.site {
+	overflow: hidden;
+	position: relative;
+	z-index: 2;
+	transition: transform .5s;
+	background: #eee;
+}
+.main {
+	margin: 110px auto;
+}
+.content {
+	width: 65%;
+	float: left;
+	word-wrap: break-word;
+}
+.error404 .content {
+	float: none;
+	margin: 0 auto;
+}
+.sidebar {
+	float: right;
+}
+.page-template-grid-page .content,
+.post-type-archive-jetpack-portfolio .content,
+.tax-jetpack-portfolio-type .content,
+.post-type-archive-jetpack-testimonial .content {
+	width: 100%;
+}
+/**
+ * Entry
+ *
+ * Style for post, page (entry)
+ *
+ * -----------------------------------------------------------------------------
+ */
+.hentry {
+	background: #fff;
+	box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
+	margin-bottom: 10%;
+	border-radius: 4px;
+}
+.sticky {
+	position: relative;
+}
+.sticky-post {
+	position: absolute;
+	top: 30px;
+	right: 0;
+	background: #13c0a2;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 0.84090145em;
+	padding: .5em 1.2em;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+.entry-text {
+	padding: 8% 10%;
+}
+.entry-header {
+	padding-bottom: 4%;
+}
+.entry-title {
+	margin: 0;
+}
+.entry-title a {
+	color: #212121;
+}
+.entry-meta {
+	color: #999;
+	margin-bottom: 5px;
+}
+.updated {
+	display: none;
+}
+#page .entry-date-wrapper {
+	color: inherit;
+}
+.entry-date {
+	text-transform: uppercase;
+	font-size: 0.84090145em;
+	display: block;
+}
+.site-header .entry-meta {
+	font-size: 0.84090145em;
+	color: rgba(255, 255, 255, 0.6);
+	margin: 14px 0 0;
+}
+.site-header .entry-meta img {
+	border-radius: 50%;
+	vertical-align: middle;
+	margin-right: 5px;
+	width: 32px;
+	height: 32px;
+}
+.site-header .entry-meta a {
+	color: rgba(255, 255, 255, 0.8);
+}
+.site-header .entry-date {
+	margin-bottom: 10px;
+}
+.site-header .comments-link {
+	margin-left: 5px;
+}
+.entry-content p:first-child,
+.entry-summary p:first-child {
+	margin-top: 0;
+}
+.entry-content p:last-child,
+.entry-summary p:last-child {
+	margin-bottom: 0;
+}
+.entry-content hr {
+	width: 50%;
+	height: 4px;
+	background: #eee;
+	margin: 2em auto;
+	border: 0;
+}
+.entry-content ul,
+.entry-content ol {
+	margin: 0 0 2em;
+}
+/* Caption */
+.wp-caption {
+	margin-bottom: 1.2em;
+	max-width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+}
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.wp-caption-text,
+.gallery-caption {
+	font-size: 0.84090145em;
+	color: #888;
+	margin: .8075em 0;
+	text-align: center;
+}
+.alignleft,
+.alignright {
+	margin-top: 0;
+	margin-bottom: 1.2em;
+}
+.alignleft {
+	float: left;
+	margin-right: 1em;
+}
+.alignright {
+	float: right;
+	margin-left: 1em;
+}
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.format-aside .entry-content {
+	padding: 8% 10%;
+}
+.format-quote .entry-content {
+	background: #262626;
+	border-radius: 4px;
+	padding: 8% 10%;
+	color: #fff;
+}
+.format-quote blockquote {
+	background: #262626;
+	border-radius: 4px;
+	color: #fff;
+	padding: 0;
+}
+.format-quote blockquote:before,
+.format-quote blockquote:after {
+	display: none;
+}
+.format-quote a {
+	color: rgba(255, 255, 255, 0.75);
+}
+body.single .site,
+body.page .site {
+	background: #fff;
+}
+body.single .content > article,
+body.page .content > article {
+	background: transparent;
+	box-shadow: none;
+	margin-bottom: 0;
+}
+body.single .content > article .entry-content,
+body.page .content > article .entry-content {
+	padding: 0;
+}
+body.single .content > article.format-quote .entry-content,
+body.page .content > article.format-quote .entry-content {
+	padding: 8% 10%;
+}
+body.single .entry-content > p:first-child,
+body.page .entry-content > p:first-child {
+	font-size: 1.1892em;
+}
+body.single .entry-title,
+body.page .entry-title {
+	text-transform: none;
+}
+body.single .format-aside .entry-content,
+body.page .format-aside .entry-content {
+	padding-top: 0;
+}
+body.single .header-inner {
+	padding: 230px 0 35px;
+	text-align: left;
+}
+/* Password protected post */
+.post-password-form input[type="submit"] {
+	padding: .7em 1.2em;
+}
+.entry-media {
+	position: relative;
+}
+.entry-media img {
+	display: block;
+	border-radius: 4px 4px 0 0;
+	margin: 0 auto;
+	width: 100%;
+}
+.entry-media iframe {
+	display: block;
+	border: none;
+	width: 100%;
+	height: auto;
+}
+.media-caption-container {
+	position: absolute;
+	width: 95%;
+	margin-left: 2.5%;
+	bottom: 1.5em;
+	text-align: center;
+	font-size: 0.84090145em;
+}
+.media-caption {
+	display: inline-block;
+	padding: 7px 11px;
+	border-radius: 3px;
+	background: #262626;
+	background: rgba(38, 38, 38, 0.75);
+	color: #fff;
+	text-align: center;
+	line-height: 130%;
+}
+.media-caption:hover {
+	background: #262626;
+	color: #fff;
+}
+.entry-footer {
+	margin-top: 5%;
+}
+.post-tags a {
+	font-size: 0.84090145em;
+	color: #fff;
+	display: inline-block;
+	padding: 5px 10px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	background: #bbb;
+	border-radius: 2px;
+	transition: background .3s;
+	text-transform: uppercase;
+}
+.post-tags a:hover {
+	background: #13c0a2;
+	color: #fff;
+	text-decoration: none;
+}
+/* Portfolio shortcode */
+.portfolio-entry-header .portfolio-featured-image img {
+	max-height: 272px;
+}
+/**
+ * Home page
+ *
+ * -----------------------------------------------------------------------------
+ */
+.section {
+	margin-bottom: 110px;
+	/* Call to action */
+	/* Blog section */
+	/* Flourish section */
+}
+.section h2 {
+	margin-top: 0;
+	text-align: center;
+	font-size: 1.99995214em;
+}
+.section.call-to-action {
+	text-align: center;
+}
+.section.call-to-action .button,
+.section.call-to-action .button-minimal {
+	margin-bottom: 1em;
+}
+.section.blog {
+	padding-bottom: 0;
+}
+.section.blog h2 {
+	margin-bottom: 1em;
+}
+.section.blog article {
+	box-shadow: none;
+	background: none;
+	margin-bottom: 0;
+}
+.section.blog .entry-header {
+	padding-bottom: 3%;
+}
+.section.blog .entry-text {
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	margin-bottom: -0.4em;
+}
+.section.flourish {
+	text-align: center;
+}
+.section.flourish h2 {
+	margin-bottom: 1em;
+}
+.main .section:last-child {
+	margin-bottom: 0;
+}
+/* Features section: can be use not only in front page but also other pages. */
+.features h3 {
+	margin: 0;
+}
+.features > p {
+	text-align: center;
+}
+.features i {
+	font-size: 1.1892em;
+	color: #13c0a2;
+	width: 50px;
+	vertical-align: middle;
+}
+.features .grid {
+	margin-top: 5%;
+}
+.features .grid p {
+	margin: 10px 0 0 50px;
+}
+/**
+ * Fixes
+ */
+.content {
+	width: 98%;
+	float: none;
+	margin: 0 auto;
+}
+/*# sourceMappingURL=editor-style.css.map */

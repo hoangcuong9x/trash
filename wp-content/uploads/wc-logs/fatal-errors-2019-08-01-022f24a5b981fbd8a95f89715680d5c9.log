@@ -1,0 +1,32 @@
+2019-08-01T01:26:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\helpers\helpers-shortcode.php on line 187
+
+2019-08-01T03:24:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\widgets\class-wp-widget-pages.php on line 17
+
+2019-08-01T03:24:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\widgets\class-wp-widget-pages.php on line 17
+
+2019-08-01T03:24:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\facebook-for-woocommerce\includes\fbproductfeed.php on line 11
+
+2019-08-01T03:24:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\widgets\class-wp-widget-pages.php on line 17
+
+2019-08-01T03:24:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\widgets\class-wp-widget-pages.php on line 17
+
+2019-08-01T03:24:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\widgets\class-wp-widget-media-image.php on line 17
+
+2019-08-01T03:24:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\widgets\class-wp-widget-tag-cloud.php on line 17
+
+2019-08-01T03:24:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\widgets\class-wp-nav-menu-widget.php on line 17
+
+2019-08-01T03:25:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\wp-db.php on line 2007
+
+2019-08-01T04:53:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-08-01T13:22:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\wp-db.php on line 3042
+
+2019-08-01T14:30:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\admin\kirki\modules\webfonts\webfonts.php on line 3
+
+2019-08-01T14:50:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-menus.php on line 11
+
+2019-08-01T14:51:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-admin\includes\misc.php on line 16
+
+2019-08-01T14:51:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-admin\includes\class-walker-category-checklist.php on line 19
+

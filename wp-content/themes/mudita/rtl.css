@@ -1,0 +1,296 @@
+/*
+Theme Name: Mudita
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+https://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.site-header .header-t .social-networks {
+    float: right;
+}
+
+.site-header .header-t .social-networks li {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.top-menu,
+.site-header .header-t .tel-link {
+    float: left;
+}
+
+.top-menu ul li {
+    float: right;
+    margin-left: 0;
+    margin-right: 27px;
+}
+
+.site-header .header-t .tel-link {
+    padding-right: 27px;
+    padding-left: 0;
+}
+
+.top-menu ul ul,
+.top-menu ul ul ul {
+    display: none;
+    padding: 0;
+}
+
+.top-menu ul li:hover > ul {
+    left: auto;
+    right: 0;
+    display: block;
+}
+
+.top-menu ul ul li:hover > ul {
+    left: auto;
+    right: 100%;
+    display: block;
+}
+
+.site-header .header-t .tel-link {
+    background-position: 100% 0;
+}
+
+.top-menu {
+    margin-right: 0;
+    margin-left: 22px;
+}
+
+.btn-learnmore .icon {
+    right: auto;
+    left: -47px;
+    transform: rotateY(180deg);
+}
+
+.features .post,
+.two-columns .col,
+.blog-section .post {
+    float: right;
+}
+
+.blog-section .post .entry-meta .fa {
+    margin-right: 0;
+    margin-left: 7px;
+}
+
+.testimonial .testimonial-holder .col-left,
+.testimonial .testimonial-holder .col-left .img-holder,
+.testimonial .testimonial-holder .col-right .img-left {
+    float: right;
+}
+
+.testimonial .testimonial-holder .col-left .img-holder::before,
+.testimonial .testimonial-holder .col-right .img-holder.img-left::after {
+    transform: rotateY(180deg);
+    right: auto;
+    left: 0;
+}
+
+.testimonial .testimonial-holder .col-left .text-holder blockquote {
+    background-position: 100% 6px;
+    padding-left: 0;
+    padding-right: 45px;
+}
+
+.testimonial .testimonial-holder .col-right .img-holder.img-right {
+    float: left;
+}
+
+.testimonial .testimonial-holder .col-right .img-holder.img-right::after {
+    transform: rotateY(180deg);
+    right: 0;
+    left: auto;
+}
+
+/* team */
+
+.our-team .owl-carousel .owl-item .text{
+    text-align: right;
+}
+
+.social-block .social-networks {
+    margin-left: 0;
+    margin-right: 49px;
+}
+
+.site-footer .footer-t .column {
+    float: right;
+}
+
+.widget.widget_mudita_recent_post ul li .post-thumbnail,
+.widget.widget_mudita_popular_post ul li .post-thumbnail {
+    margin-right: 0;
+    margin-left: 22px;
+    float: right;
+}
+
+.widget.widget_archive ul li a {
+    float: right;
+}
+
+.widget ul li::before {
+    left: auto;
+    right: 0;
+}
+
+.widget ul li {
+    padding-left: 0;
+    padding-right: 22px;
+}
+
+.widget.widget_archive ul{
+    text-align: left;
+}
+
+.widget.widget_search .search-form input[type="search"],
+.widget.widget_search .search-form label{
+    float: right;
+}
+
+.widget.widget_search .search-form input[type="submit"]{
+    float: left;
+}
+
+#crumbs a{
+    display: inline-block;
+}
+
+.widget.widget_mudita_featured_post .readmore .fa{
+    margin-right: 8px;
+    margin-left: 0;
+    transform: rotateY(180deg);
+}
+
+.comment-list .avatar{
+    float: right;
+    margin-right: 0;
+    margin-left: 23px;
+}
+
+.comment-list .comment-reply-link{
+    left: auto;
+    right: 105px;
+}
+
+.comment-list .comment-metadata a::before{
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.comment-list .comment-metadata a{
+    display: inline-block;
+}
+
+.comment-list .comment-reply-link::after{
+    transform: rotateY(180deg);
+    margin-left: 0;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+#comments .children{
+    padding-left: 0;
+    padding-right: 100px;
+}
+
+#primary .post .entry-meta .fa{
+    margin-right: 0;
+    margin-left: 8px;
+}
+
+#primary .post .entry-meta span{
+    display: inline-block;
+}
+
+#primary .post .entry-meta .byline, #primary .post .entry-meta .comments-link{
+    margin-left: 0;
+    margin-right: 36px;
+}
+
+#primary .post .entry-content ul > li::before, #primary .page .entry-content ul > li::before{
+    transform: rotateY(180deg);
+    margin-right: 0;
+    margin-left: 22px;
+}
+
+#primary .post .entry-footer .cat-links::before,
+#primary .post .entry-footer .tags-links::before{
+    margin-right: 0;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+#primary .post .entry-footer .cat-links a,
+#primary .post .entry-footer .tags-links a{
+    display: inline-block;
+}
+
+.gallery-item{
+    float: right;
+}
+
+#primary .post blockquote, #primary .page blockquote{
+    background-position: 100% 0;
+    padding-left: 0;
+    padding-right: 54px;
+}
+
+.our-team .owl-carousel{
+    float: right;
+}
+
+.our-team .owl-carousel .owl-item .item{
+    float: right;
+}
+
+.our-team .owl-carousel .owl-stage{
+    margin-left: 0;
+    margin-right: 240px;
+}
+
+.our-team .owl-carousel .owl-item .img-holder{
+    float: right;
+}
+
+.our-team .owl-carousel .owl-item .text{
+    float: left;
+    padding: 0 36px 0 50px;
+}
+
+.our-team .owl-carousel .owl-item{
+    width: auto;
+}
+
+.our-team .owl-carousel .owl-item.center{
+    width: auto;
+}
+
+.our-team .owl-carousel .owl-stage .owl-item{
+    float: left;
+}
+
+
+@media only screen and (min-width:768px){
+    .our-team .owl-carousel .owl-stage{
+        margin-right:525px;
+    }
+
+    .our-team .owl-carousel .owl-stage.nomargin{
+        margin-right: 615px;
+    }
+}
+
+@media only screen and (max-width:767px){
+    .our-team .owl-carousel .owl-stage{
+        margin-right: 308px;
+    }
+}

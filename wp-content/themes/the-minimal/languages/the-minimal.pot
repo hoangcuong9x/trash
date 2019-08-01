@@ -1,0 +1,553 @@
+# <!=Copyright (C) 2019 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: The Minimal 1.1.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/the-minimal\n"
+"POT-Creation-Date: 2019-01-19 07:20:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links or a search?"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:48
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:49
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:48
+msgid "Secondary"
+msgstr ""
+
+#: functions.php:140
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:150
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:160
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:170
+msgid "Footer Three"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Default section provided by wordpress customizer."
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Enable Home Page Slider"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Enable Slider Auto Transition"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Enable Slider Loop"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Enable Slider Control"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Enable Slider Caption"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Enable Slider Thumbnail"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Choose Slider Animation"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Slider Speed"
+msgstr ""
+
+#: inc/customizer.php:217 inc/extras.php:200
+#: template-parts/content-search.php:27 template-parts/content.php:66
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Readmore Text"
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "Choose Slider Category"
+msgstr ""
+
+#: inc/customizer.php:255
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Leave blank if you do not want to show the social link."
+msgstr ""
+
+#: inc/customizer.php:274
+msgid "Enable Social Links"
+msgstr ""
+
+#: inc/customizer.php:292 inc/extras.php:166 inc/widget-social-links.php:59
+#: inc/widget-social-links.php:117
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:310 inc/extras.php:168 inc/widget-social-links.php:61
+#: inc/widget-social-links.php:123
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:328 inc/extras.php:170 inc/widget-social-links.php:63
+#: inc/widget-social-links.php:129
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:346 inc/extras.php:172 inc/widget-social-links.php:65
+#: inc/widget-social-links.php:135
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:364 inc/extras.php:174 inc/widget-social-links.php:67
+#: inc/widget-social-links.php:141
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:382 inc/extras.php:176 inc/widget-social-links.php:147
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer.php:400 inc/extras.php:178 inc/widget-social-links.php:71
+#: inc/widget-social-links.php:153
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer.php:418 inc/extras.php:180 inc/widget-social-links.php:73
+#: inc/widget-social-links.php:159
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer.php:436 inc/extras.php:182 inc/widget-social-links.php:75
+#: inc/widget-social-links.php:165
+msgid "OK"
+msgstr ""
+
+#: inc/customizer.php:454 inc/extras.php:184 inc/widget-social-links.php:77
+#: inc/widget-social-links.php:171
+msgid "VK"
+msgstr ""
+
+#: inc/customizer.php:472 inc/extras.php:186 inc/widget-social-links.php:79
+#: inc/widget-social-links.php:177
+msgid "Xing"
+msgstr ""
+
+#: inc/customizer.php:485
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: inc/customizer.php:503
+msgid "Custom Css"
+msgstr ""
+
+#: inc/customizer.php:505
+msgid "Put your custom CSS"
+msgstr ""
+
+#: inc/extras.php:271
+msgid ""
+"<b class=\"fn\" itemprop=\"creator\" itemscope "
+"itemtype=\"http://schema.org/Person\">%s</b> <span "
+"class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/extras.php:274
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:281 inc/widget-popular-post.php:73
+#: inc/widget-recent-post.php:70
+#. translators: 1: date, 2: time
+msgid "%1$s"
+msgstr ""
+
+#: inc/extras.php:281
+msgid "Edit"
+msgstr ""
+
+#: inc/extras.php:313
+msgid "Name*"
+msgstr ""
+
+#: inc/extras.php:315
+msgid "Email*"
+msgstr ""
+
+#: inc/extras.php:317
+msgid "Website"
+msgstr ""
+
+#: inc/extras.php:329
+msgid "Comment*"
+msgstr ""
+
+#: inc/extras.php:330
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/extras.php:389
+msgid "Copyright &copy; "
+msgstr ""
+
+#: inc/extras.php:389
+msgid "Y"
+msgstr ""
+
+#: inc/extras.php:391
+msgid "The Minimal by: Rara Theme"
+msgstr ""
+
+#: inc/extras.php:392
+msgid "Powered by: %s"
+msgstr ""
+
+#: inc/extras.php:392
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr ""
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr ""
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr ""
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:24 inc/info.php:25
+msgid "here"
+msgstr ""
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr ""
+
+#: inc/info.php:24
+msgid "Support ticket"
+msgstr ""
+
+#: inc/info.php:25
+msgid "More Details"
+msgstr ""
+
+#: inc/info.php:29
+msgid "About The Minimal"
+msgstr ""
+
+#: inc/info.php:145
+msgid "Pro Available"
+msgstr ""
+
+#: inc/info.php:147
+msgid "VIEW PRO THEME"
+msgstr ""
+
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-tags.php:53 inc/template-tags.php:59
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "FILED UNDER: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:61
+msgid "TAGGED WITH: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:68 template-parts/content-page.php:46
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:87
+msgid "Page"
+msgstr ""
+
+#: inc/widget-featured-post.php:25
+msgid "RARA: Featured Post"
+msgstr ""
+
+#: inc/widget-featured-post.php:26
+msgid "A Featured Post Widget"
+msgstr ""
+
+#: inc/widget-featured-post.php:39 inc/widget-featured-post.php:96
+#: inc/widget-featured-post.php:142
+msgid "Read More"
+msgstr ""
+
+#: inc/widget-featured-post.php:84
+msgid "--choose--"
+msgstr ""
+
+#: inc/widget-featured-post.php:103
+msgid "Posts"
+msgstr ""
+
+#: inc/widget-featured-post.php:113
+msgid "Read More Text"
+msgstr ""
+
+#: inc/widget-featured-post.php:117
+msgid "Excerpt Character"
+msgstr ""
+
+#: inc/widget-featured-post.php:123 inc/widget-popular-post.php:115
+#: inc/widget-recent-post.php:112
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: inc/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/widget-popular-post.php:40 inc/widget-popular-post.php:96
+#: inc/widget-popular-post.php:138
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widget-popular-post.php:104 inc/widget-recent-post.php:101
+#: inc/widget-social-links.php:112
+msgid "Title"
+msgstr ""
+
+#: inc/widget-popular-post.php:109 inc/widget-recent-post.php:106
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widget-popular-post.php:120 inc/widget-recent-post.php:117
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: inc/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: inc/widget-recent-post.php:40 inc/widget-recent-post.php:93
+#: inc/widget-recent-post.php:135
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr ""
+
+#: inc/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr ""
+
+#: inc/widget-social-links.php:40 inc/widget-social-links.php:96
+#: inc/widget-social-links.php:197
+msgid "Social"
+msgstr ""
+
+#: inc/widget-social-links.php:69
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widget-social-links.php:119 inc/widget-social-links.php:125
+#: inc/widget-social-links.php:131 inc/widget-social-links.php:137
+#: inc/widget-social-links.php:143 inc/widget-social-links.php:149
+#: inc/widget-social-links.php:155 inc/widget-social-links.php:161
+#: inc/widget-social-links.php:167 inc/widget-social-links.php:173
+#: inc/widget-social-links.php:179
+msgid "Leave blank if you do not want to show."
+msgstr ""
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:35 template-parts/content.php:59
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:47
+#. translators: %s: Name of current post.
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "The Minimal"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://raratheme.com/wordpress-themes/the-minimal/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Minimal is a fresh, clean and a minimalist WordPress theme designed for "
+"a blog or a magazine. The large featured slider with advance slider options "
+"makes this theme a great choice for photography, travel, food, fashion, "
+"travel, lifestyle, sports or any other awesome blog.  The clean typography "
+"and spacious white layout make it great to share your stories.  The three "
+"footer widget areas offer plenty of space for any secondary information, "
+"and striking typography makes the content look stunning. The Theme has a "
+"built-in Recent Posts widget, Popular Post widget, Social Links widget and "
+"Author widget. It features full width page option, two menus, SEO friendly "
+"structure, custom logo support and social media links. The Minimal supports "
+"all types of post format like links, aside, quotes, galleries, image, "
+"audio, video, status and chat. The theme is responsive and scales "
+"beautifully with various screen sizes while maintaining the text "
+"readability and image quality. The theme is also translation ready. Check "
+"the demo at https://demo.raratheme.com/the-minimal/, documentation at "
+"https://raratheme.com/documentation/the-minimal/, and get support at "
+"https://raratheme.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://raratheme.com/"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:32
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags.php:35
+msgctxt "post comment"
+msgid "%s"
+msgstr ""

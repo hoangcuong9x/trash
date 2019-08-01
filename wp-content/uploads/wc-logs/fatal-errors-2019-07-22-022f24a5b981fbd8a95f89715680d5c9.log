@@ -1,0 +1,4 @@
+2019-07-22T13:02:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\wp-db.php on line 2007
+
+2019-07-22T13:08:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\Requests\Transport\cURL.php on line 463
+

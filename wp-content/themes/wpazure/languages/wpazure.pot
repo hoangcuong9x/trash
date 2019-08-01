@@ -1,0 +1,1500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wpazure theme\n"
+"POT-Creation-Date: 2019-07-03 23:02+0530\n"
+"PO-Revision-Date: 2019-07-03 23:03+0530\n"
+"Last-Translator: wpazure <admin@wpazure.com>\n"
+"Language-Team: wpazure <admin@wpazure.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wplab\\wp-content\\themes"
+"\\wpazure\n"
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/404.php:16
+msgid "4"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/404.php:17
+msgid "Page Not Found.."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/404.php:19
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr ""
+
+#. translators: %s is Link to login
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:26
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:36
+msgid "Your Name"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:37
+msgid "Email Address"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:38
+msgid "Your Website"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:42
+msgid "Leave a comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:42
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:161
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:255
+msgid "Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:72
+msgid "Posted on "
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:76
+msgid "Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:79
+msgid "Edit"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:81
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:118
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:119
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:120
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/comments.php:128
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/functions.php:68
+msgid "Primary Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/functions.php:69
+msgid "Footer Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/functions.php:249
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:90
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/template-parts/content.php:9
+msgid "Read more"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:22
+msgid "Welcome"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:38
+msgid "Thank You for installing Wpazure Theme!"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:39
+msgid "With the few clickes to unlock full potential of Wpazure"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:41
+msgid ""
+"Simply complete the steps listed below it only takes a minute  and you will "
+"be able to enjoy all functionalities of Wpazure Theme."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:42
+msgid "So without a further ado let's begin!"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:44
+msgid ""
+"Install and Activate all recommended plugins to unlock Wpazure custom "
+"features"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:49
+msgid "Install and Activate Plugins Now"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:53
+msgid "Success: All plugins are installed and activated"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:62
+msgid "Import one of the already created Demo sites"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:66
+msgid "Go to Wpazure Demo Importer"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:70
+msgid "Go to Wpazure Site Library"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:75
+msgid ""
+"Go to Wordpress Customizer to tweak many Wpazure theme options and customize "
+"it just how you like!"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:76
+msgid "Go To Customizer"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:78
+msgid "Need help with Wpazure Theme?"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/admin/wpazure-welcome.php:79
+msgid "Post your query"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/core/functions/footer-function.php:91
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/core/functions/footer-function.php:126
+msgid ""
+"<a href=\"https://wordpress.org\">Proudly powered by WordPress</a> | Theme: "
+"<a href=\"https://wpazure.com\" rel=\"designer\">Wpazure</a> by Wpazure"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/core/functions/header-function.php:51
+msgid "Toggle navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/core/functions/sidebar-function.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/core/functions/sidebar-function.php:12
+msgid "Add widgets here."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/core/functions/sidebar-function.php:22
+msgid "Footer Bar Section 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/core/functions/sidebar-function.php:35
+msgid "Footer Bar Section 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/core/functions/sidebar-function.php:48
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/core/functions/sidebar-function.php:50
+msgid "WooCommerce sidebar widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/core/functions/sidebar-function.php:66
+msgid "Footer "
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/customizer.php:8
+msgid "General"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/kirki/class-kirki-installer-section.php:105
+msgid ""
+"Please install the Kirki plugin to take full advantage of this theme\\s "
+"customizer capabilities"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/kirki/class-kirki-installer-section.php:107
+msgid "Install Kirki Toolkit now"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/kirki/class-kirki-installer-section.php:108
+msgid "Install Now"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/kirki/class-kirki-installer-section.php:122
+msgid ""
+"You have installed Kirki. Activate it to take advantage of this theme's "
+"features in the customizer."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/kirki/class-kirki-installer-section.php:124
+msgid "Activate Kirki Toolkit now"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/kirki/class-kirki-installer-section.php:125
+msgid "Activate Now"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/kirki/class-kirki-installer-section.php:144
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/kirki/class-kirki-installer-section.php:145
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/kirki/class-kirki-installer-section.php:144
+msgid "Dismiss"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/kirki/class-kirki-installer-section.php:155
+msgid ""
+"Are you sure? Dismissing this message will hide the installation "
+"recommendation and you will have to manually install and activate the plugin "
+"in the future."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:9
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:48
+msgid "Blog"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:14
+msgid "Blog / Archive"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:22
+msgid "Single posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:32
+msgid "Blog layout"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:54
+msgid "Blog post content"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:58
+msgid "Full content"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:59
+msgid "Excerpt"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:67
+msgid "Excerpt length"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:87
+msgid "Read more text"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:88
+msgid "Leave empty to hide"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:112
+msgid "Blog post structure"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:121
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:213
+msgid "Featured image"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:122
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:214
+msgid "Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:123
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:215
+msgid "Blog Meta"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:124
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:216
+msgid "Blog Content"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:149
+msgid "Blog meta structure"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:159
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:253
+msgid "Author"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:160
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:254
+msgid "Date"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:162
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:256
+msgid "Category"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:163
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:257
+msgid "Tag"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:182
+msgid "Single post layout"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:204
+msgid "Single Blog post"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/blog-settings.php:243
+msgid "Single blog meta"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:13
+msgid "Colors"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:22
+msgid "Primary color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:56
+msgid "Post title (archives)"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:70
+msgid "Post title (single)"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:85
+msgid "Meta text"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:99
+msgid "Meta links"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:114
+msgid "Body text"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:133
+msgid "Read more text color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:153
+msgid "Footer widgets"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:162
+msgid "Footer widget background color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:177
+msgid "Widget title color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:192
+msgid "Widget text color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:206
+msgid "Widget link color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:220
+msgid "Widget link hover color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:236
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:46
+msgid "Footer bar"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:245
+msgid "Footer bar background color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:260
+msgid "Footer bar text color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:274
+msgid "Footer bar link color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/colors-settings.php:289
+msgid "Footer bar link hover color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:9
+msgid "Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:14
+msgid "Footer widget"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:77
+msgid "Section 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:82
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:114
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:176
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:83
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:115
+msgid "Custom text"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:84
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:116
+msgid "Footer menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:85
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:117
+msgid "Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:93
+msgid "Section 1 custom text"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:109
+msgid "Section 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/footer-settings.php:125
+msgid "Section 2 custom text"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/header-settings.php:9
+msgid "Header"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/header-settings.php:14
+msgid "Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/header-settings.php:21
+msgid "Menu type"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/header-settings.php:25
+msgid "Inside header"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/header-settings.php:26
+msgid "Outside header"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/header-settings.php:33
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/header-settings.php:37
+msgid "Sticky menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/header-settings.php:38
+msgid "Static menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/customizer/settings/header-settings.php:45
+msgid "Menu width"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:59
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-base.php:132
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:408
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:62
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-base.php:133
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:386
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:418
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:443
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/views/image.php:37
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:63
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:83
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:84
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:85
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:86
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:87
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:88
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:89
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:90
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:91
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-base.php:134
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/views/image.php:36
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimension.php:41
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:145
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:157
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr ""
+
+#. translators: %s represents the label of the row.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:86
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr ""
+
+#. translators: %s represents the number of rows we're limiting the repeater to allow.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:227
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:376
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-switch.php:52
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-switch.php:56
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:83
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:139
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:181
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:180
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/views/image.php:34
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/views/image.php:39
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-image.php:47
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/views/image.php:35
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/views/image.php:38
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/controls/views/image.php:40
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr ""
+
+#. translators: %s represents the field ID where the error occurs.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki-field.php:248
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is the URL in the documentation site.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki-field.php:257
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki-field.php:267
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki-field.php:375
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#. translators: The field ID where the error occurs.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki-field.php:498
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki-field.php:509
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki-init.php:289
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki-init.php:365
+msgid ""
+"Your theme uses a Font Awesome field for icons. To avoid issues with missing "
+"icons on your frontend we recommend you install the official Font Awesome "
+"plugin."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/core/class-kirki.php:237
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/deprecated/functions.php:19
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-color.php:52
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use "
+"\"choices[alpha]\" instead."
+msgstr ""
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is buttonset/image.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/field/class-kirki-field-radio.php:37
+#, php-format
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr ""
+
+#. translators: The title.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:146
+msgid "Help us improve Kirki."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:147
+msgid ""
+"Help us begin a dialogue with theme developers, collaborate and improve both "
+"the theme you are using and the Kirki framework by agreeing to send "
+"anonymous data. <strong>The data is completely anonymous and we will never "
+"collect any identifyable information about you or your website.</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:151
+msgid "Data that will be sent"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:156
+msgid "PHP Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:160
+msgid "Theme Name"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:164
+msgid "Theme Author"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:168
+msgid "Theme URI"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:172
+msgid "Field Types Used"
+msgstr ""
+
+#. translators: %1$s: URL to the server plugin code. %2$s: URL to the stats page.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:182
+#, php-format
+msgid ""
+"We believe in complete transparency. You can see the code used on our server "
+"<a href=\"%1$s\" rel=\"nofollow\">here</a>, and the results of the "
+"statistics we're gathering on <a href=\"%2$s\" rel=\"nofollow\">this page</"
+"a>."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:193
+msgid "I agree"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:194
+msgid "No thanks"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:195
+msgid "Show me the data"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/telemetry/class-kirki-modules-telemetry.php:196
+msgid "Collapse data"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:214
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:215
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Light 200"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:218
+msgid "Light 200 Italic"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Book 300"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Book 300 Italic"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:221
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:222
+msgid "Normal 400"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:223
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:224
+msgid "Medium 500"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:225
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:226
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:227
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:228
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:229
+msgid "Bold 700"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:230
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:231
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:232
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:233
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:234
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:235
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/modules/webfonts/class-kirki-fonts.php:236
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/menu/class-wpazure-bootstrap-navwalker.php:338
+msgid "Add a menu"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/template-tags.php:152
+#, php-format
+msgid "Leave a comment<li class=\"screen-reader-text\"> on %s</li>"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:386
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:821
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2527
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3574
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:387
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3153
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:516
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:517
+msgid "Update Required"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:928
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:928
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:931
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:931
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: %s: version number
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:1976
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2267
+msgid "Required"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2270
+msgid "Recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2286
+msgid "WordPress Repository"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2289
+msgid "External Source"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2309
+msgid "Not Installed"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2313
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Active"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Required Update not Available"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2324
+msgid "Requires Update"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Update recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2484
+msgid "Installed version:"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2492
+msgid "Minimum required version:"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2504
+msgid "Available version:"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2527
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2541
+msgid "Plugin"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2542
+msgid "Source"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2543
+msgid "Type"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Stwpazures"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2597
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2602
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2678
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2711
+msgid "Install"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Update"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2720
+msgid "Activate"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2794
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2902
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:2928
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3152
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3492
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3495
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3497
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3503
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3511
+msgid "Show Details"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3503
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3511
+msgid "Hide Details"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3504
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3506
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3511
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/inc/tgmpa/class-tgm-plugin-activation.php:3514
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: %s: search query.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/searchform.php:3
+msgid "Search for"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/searchform.php:5
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/template-parts/content-page.php:24
+#: D:\xampp\htdocs\wplab\wp-content\themes\wpazure/template-parts/content-single.php:64
+msgid "Read More"
+msgstr ""

@@ -1,0 +1,13 @@
+.customize-control-kirki-radio-image label {
+	margin-right:10px;
+}
+.customizer-title{
+    text-align: center;
+    font-size: 16px;
+    background-color: #5c5c5c;
+    width: 100%;
+    color: #ffffff;
+    padding: 8px 0;
+    margin: 15px 0;
+    box-shadow: 2px 4px 3px 0px rgba(0, 0, 0, 0.25);
+}

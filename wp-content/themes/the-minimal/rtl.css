@@ -1,0 +1,176 @@
+/*
+Theme Name: The Minimal
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+	overflow-x: hidden;
+}
+
+.header-top .top-menu,
+.header-top .collapse,
+.header-top .top-menu li{
+	float: right;
+}
+
+.header-top .top-menu li{
+	margin-left: 0;
+	margin-right: 46px;
+}
+
+.header-top .top-menu li:first-child{
+	margin-right: 0;
+}
+
+.header-top .right-section{
+	float: left;
+}
+
+.header-top .right-section .social-networks li{
+	float: right;
+	margin-right: 12px;
+	margin-left: 0;
+}
+
+.site-branding,
+.header-bottom .main-navigation ul li{
+	float: right;
+}
+
+.header-bottom .main-navigation ul li{
+	margin-left: 0;
+	margin-right: 82px;
+}
+
+.header-bottom .main-navigation{
+	float: left;
+}
+
+.main-navigation ul li:hover > ul {
+    left: auto;
+    right: 0;
+    display: block;
+}
+
+.main-navigation ul ul li:hover > ul {
+    left: auto;
+    right: 100%;
+    display: block;
+}
+
+.header-top .right-section .search-section .search-form label,
+.header-top .right-section .search-section .search-form input[type="search"]{
+	float: right;
+}
+
+.header-top .right-section .search-section .search-form input[type="submit"]{
+	float: left;
+	background-position: 14px 17px;
+}
+
+.header-top .right-section .search-section{
+	float: left;
+}
+
+.header-top .right-section .social-networks{
+	float: right;
+	margin-right: 0;
+	margin-left: 22px;
+}
+
+.site-content .post .meta-info span a, .site-content .page .meta-info span a{
+	display: inline-block;
+	margin-right: 0;
+	margin-left: 32px;
+	padding-left: 0;
+}
+
+.site-content .post .date a, .site-content .page .date a,
+.site-content .name a,
+.site-content .comments a{
+	background-position: 100% 9px;
+	padding-left: 0;
+	padding-right: 20px;
+}
+.site-content .post .file,
+.site-content .post .tag{
+	background-position: 100% 3px;
+	padding-left: 0;
+	padding-right: 21px;
+}
+
+.site-content .post .more-detail{text-align: right;}
+
+.site-content .post .more-detail a{
+	display: inline-block;
+}
+
+.site-content .widget-area .widget.widget_search .search-form input[type="submit"], .search #primary .search-form input[type="submit"]{
+	float: left;
+}
+
+.widget.widget_recent_entries ul li .image, .widget.widget_the_minimal_recent_post ul li .image, .widget.widget_the_minimal_popular_post ul li .image{
+	float: right;
+	margin-right: 0;
+	margin-left: 24px;
+}
+
+.widget.widget_recent_entries ul li .text .date a, .widget.widget_the_minimal_recent_post ul li .text .date a, .widget.widget_the_minimal_popular_post ul li .text .date a{
+	background-position: 100% 9px;
+	padding-left: 0;
+	padding-right: 17px;
+}
+
+.widget.widget ul li{
+	background-position: 100% 15px;
+	padding-left: 0;
+	padding-right: 20px;
+}
+
+.widget.widget_the_minimal_social_links ul li{
+	padding-right: 0;
+}
+
+.widget.widget_the_minimal_social_links ul li:first-child{
+	margin-right: 0;
+}
+
+.site-content .comments-area .comment-list li .avatar.photo,
+.site-content .comments-area .comment-list li .comment-metadata{
+	float: right;
+	margin-right: 0;
+	margin-left: 25px;
+}
+
+.site-content .comments-area .comment-list li .reply,
+.site-content .comments-area .comment-content{
+	float: right;
+	margin-left: 0;
+	margin-right: 90px;
+}
+
+.site-content .comments-area .comment-list li .comment-metadata a{
+	display: inline-block;
+}
+
+.site-content .comments-area .comment-list li .children{
+	padding: 0;
+	margin-left: 0;
+	margin-right: 50px;
+}
+
+.site-content .post .entry-content ul li, .site-content .page .entry-content ul li{
+	padding-left: 0;
+	padding-right: 15px;
+	background-position: 100% 12px;
+}
+
