@@ -30,3 +30,9 @@
 
 2019-08-01T14:51:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-admin\includes\class-walker-category-checklist.php on line 19
 
+2019-08-01T19:41:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php on line 23
+
+2019-08-01T19:41:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\l10n.php on line 250
+
+2019-08-01T19:41:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\wpforms-lite\includes\fields\class-checkbox.php on line 12
+

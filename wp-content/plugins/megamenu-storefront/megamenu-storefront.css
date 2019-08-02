@@ -1,0 +1,25 @@
+@media (min-width: 768px) {
+    .woocommerce-active .site-header #mega-menu-wrap-primary {
+        width: 73.9130434783%;
+        float: left;
+        margin-right: 4.347826087%;
+        clear: both;
+    }
+
+    /** support for Storefront WooCommerce Customizer when cart has been hidden */
+    .swc-header-no-cart.woocommerce-active .site-header #mega-menu-wrap-primary {
+    	width: 100%;
+    	margin-right: 0;
+    }
+
+    /** support for Storefront Powerpack when header layout changer is enabled */
+    .sp-header-active .site-header #mega-menu-wrap-primary {
+    	width: 100%;
+    	margin-right: 0;
+    }
+
+    .woocommerce-active .site-header #mega-menu-wrap-primary.mega-sticky {
+        width: 100%;
+        margin: 0 auto;
+    }
+}

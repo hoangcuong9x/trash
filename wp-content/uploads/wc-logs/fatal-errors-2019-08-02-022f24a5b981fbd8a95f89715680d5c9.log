@@ -1,0 +1,108 @@
+2019-08-02T00:17:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-08-02T00:26:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\woocommerce\includes\emails\class-wc-email-customer-refunded-order.php on line 8
+
+2019-08-02T00:47:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\rest-api\class-wp-rest-server.php on line 837
+
+2019-08-02T01:34:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\themeisle-companion\vendor\codeinwp\themeisle-content-forms\class-themeisle-content-forms-server.php on line 9
+
+2019-08-02T01:34:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\themeisle-companion\vendor\codeinwp\themeisle-content-forms\class-themeisle-content-forms-server.php on line 9
+
+2019-08-02T01:52:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\builder\core\server\helpers\strings.php on line 9
+
+2019-08-02T01:52:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\builder\shortcodes.php on line 3
+
+2019-08-02T01:52:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\builder\shortcodes.php on line 3
+
+2019-08-02T01:55:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_Store.php on line 7
+
+2019-08-02T01:55:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\woocommerce-admin\includes\class-wc-admin-actionscheduler-wppoststore.php on line 11
+
+2019-08-02T02:13:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\themeisle-companion\vendor\codeinwp\themeisle-sdk\src\Common\Module_factory.php on line 16
+
+
+
+2019-08-02T02:25:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\pomo\mo.php on line 280
+
+2019-08-02T02:25:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\wp-db.php on line 2007
+
+2019-08-02T02:43:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\shortcodes\ux_image.php on line 2
+
+2019-08-02T02:43:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\pomo\streams.php on line 163
+
+2019-08-02T02:52:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\mailchimp-for-woocommerce\includes\class-mailchimp-woocommerce-deactivation-survey.php on line 2
+
+2019-08-02T02:54:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\Requests\IRI.php on line 329
+
+2019-08-02T02:55:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\contact-form-7\modules\file.php on line 8
+
+2019-08-02T03:16:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-settings-tracking.php on line 13
+
+2019-08-02T03:28:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-08-02T03:31:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\wp-db.php on line 2007
+
+2019-08-02T04:06:45+00:00 CRITICAL Cannot redeclare plugins_api() (previously declared in C:\xampp\htdocs\webbanhang\wp-admin\includes\plugin-install.php:101) in C:\xampp\htdocs\webbanhang\wp-admin\includes\plugin-install.php on line 230
+
+2019-08-02T04:08:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\class-wp-customize-setting.php on line 19
+
+2019-08-02T04:08:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\themeisle-companion\vendor\codeinwp\themeisle-sdk\src\Modules\Review.php on line 18
+
+2019-08-02T04:08:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\admin\kirki\modules\custom-sections\sections\class-kirki-sections-nested-section.php on line 15
+
+2019-08-02T04:15:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-admin\includes\image.php on line 25
+
+2019-08-02T04:15:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\template.php on line 661
+
+ki\controls\php\class-kirki-settings-repeater-setting.php on line 13
+
+2019-08-02T04:15:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\shortcodes.php on line 147
+
+2019-08-02T04:15:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\widgets\class-wp-widget-custom-html.php on line 17
+
+2019-08-02T04:16:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php on line 9
+
+2019-08-02T04:33:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\pomo\streams.php on line 163
+
+2019-08-02T04:33:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\pomo\streams.php on line 163
+
+2019-08-02T04:46:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\admin\kirki\modules\tooltips\class-kirki-modules-tooltips.php on line 14
+
+2019-08-02T05:07:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\builder\shortcodes\col_grid.php on line 4
+
+2019-08-02T05:07:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\builder\shortcodes\tabgroup.php on line 3
+
+2019-08-02T05:07:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\builder\shortcodes\tabgroup.php on line 3
+
+2019-08-02T05:07:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\builder\shortcodes\tabgroup.php on line 3
+
+2019-08-02T05:07:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\builder\shortcodes\tabgroup.php on line 3
+
+2019-08-02T05:07:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\themes\flatsome\inc\builder\shortcodes\ux_pages.php on line 3
+
+2019-08-02T05:07:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\pomo\entry.php on line 43
+
+2019-08-02T05:35:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\shortcodes.php on line 288
+
+2019-08-02T05:55:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-08-02T05:55:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\pomo\streams.php on line 113
+
+2019-08-02T05:55:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 20
+
+2019-08-02T05:56:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 16
+
+2019-08-02T05:57:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\wpforms-lite\includes\class-fields.php on line 81
+
+2019-08-02T05:57:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\wpforms-lite\includes\fields\class-radio.php on line 12
+
+2019-08-02T05:57:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\wpforms-lite\includes\class-fields.php on line 81
+
+2019-08-02T05:57:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\wpforms-lite\includes\class-fields.php on line 81
+
+2019-08-02T05:57:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\woocommerce-admin\includes\class-wc-admin-reports-coupons-stats-segmenting.php on line 13
+
+2019-08-02T05:57:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\woocommerce-admin\includes\class-wc-admin-reports-taxes-stats-segmenting.php on line 13
+
+2019-08-02T05:59:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-ui.php on line 10
+

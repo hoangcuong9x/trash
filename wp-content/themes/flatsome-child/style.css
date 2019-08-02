@@ -76,6 +76,9 @@ Version: 3.0
 #text-box-1189318586 {
     width: 80%;
 }
+.header.show-on-scroll, .stuck .header-main {
+    height: 100% !important;
+}
 .nav-small [data-icon-label]:after {
     min-width: 13px;
     top: 0px;
