@@ -1,0 +1,8 @@
+2019-08-06T07:28:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\wp-db.php on line 2007
+
+2019-08-06T07:56:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-admin\includes\admin-filters.php on line 11
+
+2019-08-06T23:57:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-08-06T23:57:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\Requests\Transport\cURL.php on line 163
+

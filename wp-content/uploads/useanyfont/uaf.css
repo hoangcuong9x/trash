@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'roboto';
+				font-style: normal;
+				src: url('/webbanhang/wp-content/uploads/useanyfont/190806084559roboto.eot');
+				src: local('roboto'), url('/webbanhang/wp-content/uploads/useanyfont/190806084559roboto.eot') format('embedded-opentype'), url('/webbanhang/wp-content/uploads/useanyfont/190806084559roboto.woff') format('woff');
+			}
+            
+            .roboto{font-family: 'roboto' !important;}
+            
+		

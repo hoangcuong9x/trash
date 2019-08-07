@@ -1,0 +1,6 @@
+2019-08-07T00:01:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\yith-woocommerce-wishlist\plugin-fw\lib\yit-assets.php on line 12
+
+2019-08-07T00:01:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\yith-woocommerce-wishlist\plugin-fw\lib\yit-debug.php on line 13
+
+2019-08-07T01:10:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\Requests\Transport\cURL.php on line 463
+

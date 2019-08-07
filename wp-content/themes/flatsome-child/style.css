@@ -45,6 +45,7 @@ Version: 3.0
     position: relative;
     margin: 0 7.5px;
 }
+h1,h2,h3,h4,h5,h6, .heading-font{font-family: "Oswald","Helvetica Neue",Arial,sans-serif;}
 .header-top {
      min-height: 0; 
 }
