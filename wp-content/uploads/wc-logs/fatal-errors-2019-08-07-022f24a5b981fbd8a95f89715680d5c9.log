@@ -4,3 +4,11 @@
 
 2019-08-07T01:10:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\Requests\Transport\cURL.php on line 463
 
+2019-08-07T20:46:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\yith-woocommerce-wishlist\plugin-fw\lib\yit-plugin-panel.php on line 11
+
+2019-08-07T20:46:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\pomo\mo.php on line 323
+
+2019-08-07T20:46:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-includes\pomo\entry.php on line 43
+
+2019-08-07T20:46:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\webbanhang\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 2
+
